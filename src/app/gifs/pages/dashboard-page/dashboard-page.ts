@@ -7,4 +7,5 @@ import { GifsSideMenu } from '../../components/gifs-side-menu/gifs-side-menu';
   imports: [RouterOutlet,GifsSideMenu],
   templateUrl: './dashboard-page.html',
 })
-export default class DashboardPage {}
+export default class DashboardPage {
+}
